@@ -1,0 +1,23 @@
+*{
+    font-weight: 500;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 10px 50px;
+    max-width: 1160px;
+    width: 100%;
+        flex-direction: row;
+}
+
+.card{
+    padding: 20px;
+    color: #3f3f3f;
+    border-radius: 10px;
+
+}
